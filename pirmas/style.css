@@ -1,0 +1,31 @@
+h1{
+    color: white;
+    background-color: pink;
+    font-size: 50 pt;
+    
+}
+body{
+    background-color: lavender;
+}
+.melyna
+{
+
+    color: black;
+    font-size: 25pt;
+
+}
+.centre
+{
+  text-align:center;
+
+}
+img{
+    width: 320px;
+    border: solid lightpink 5px;
+}
+#vardas
+{
+text-align: center;
+font-size:15pt;
+
+}
