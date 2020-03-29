@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding:0;
+    list-style: none;
+
+}
+
+body{
+    background-image: url(imag/img\ 1.jpg);
+    background-size: cover;
+}
+
+header{
+    display: block;
+    background-color: #f6f6fa;
+    font-size: 30px;
+    text-align: center ;
+    font-family: 'Times New Roman';
+    font-weight: 550;
+    font-size: 25pt;
+
+
+}
+a{
+    color: black;
+}
+.pagr
+{
+    margin: auto;
+    display: block;
+   
+    background-color:#e1e1eb;
+    width: 95%;
+    height: 800px;
+}
+    
+.antr
+{
+    display:block;
+    margin: auto;
+   
+    background-color: #f1f1fc;
+    width: 100%;
+    height: 55px;
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-weight: 550;
+    font-size: 25pt;
+   
+}
+.text
+{
+ 
+    display:block;
+    background-color: #e1e1eb;
+    width: 1000px;
+    height: 50px;
+    text-align: left;
+    font-family: 'Times New Roman';
+    font-weight: 590;
+    font-size: 16pt;
+    margin: auto;
+
+ 
+
+}
+img{
+    height: auto;
+    width: 600px;
+    padding-left: 10cm;
+
+   
+   
+}
+
+
