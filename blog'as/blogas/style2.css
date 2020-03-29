@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding:0;
+}
+html, body{
+    width: 100%;
+    height:100%;
+    font-size: 14px;
+    font-weight: normal;
+}
+body{
+    background-image: url(imag/img\ 1.jpg);
+    background-size: cover;
+}
+a{
+    color: black;
+}
+header{
+    display: block;
+    background-color: #f6f6fa;
+    font-size: 30px;
+    text-align: center ;
+    font-family: 'Times New Roman';
+    font-weight: 550;
+    font-size: 25pt;
+
+
+}
+.rastas
+{
+    margin: 50pt;
+    font-family: 'Times New Roman';
+    font-size: 18pt;
+    text-align: center;
+    display: block;
+    background-color:#f6f6fa;
+
+    
+}
